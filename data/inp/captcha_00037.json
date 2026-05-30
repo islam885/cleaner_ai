@@ -1,0 +1,49 @@
+{
+  "image_name": "captcha_00037.png",
+  "text": "0QryWK",
+  "noise_coordinates": [],
+  "line_coordinates": [
+    [
+      [
+        23,
+        212
+      ],
+      [
+        238,
+        205
+      ]
+    ],
+    [
+      [
+        12,
+        164
+      ],
+      [
+        190,
+        8
+      ]
+    ]
+  ],
+  "noise_types": [
+    "grid",
+    "grid",
+    "grid"
+  ],
+  "line_ids": [
+    "ZC35V0KC",
+    "IkJF8fT2"
+  ],
+  "noise_ids": [
+    "wUVWKrSI",
+    "y8YRndtC",
+    "Lru8fKQl"
+  ],
+  "noise_level": 0.35499390036677403,
+  "random_seed": 2066875288,
+  "bbox": [
+    35,
+    106,
+    221,
+    149
+  ]
+}

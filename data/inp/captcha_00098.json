@@ -1,0 +1,93 @@
+{
+  "image_name": "captcha_00098.png",
+  "text": "2liqnx",
+  "noise_coordinates": [],
+  "line_coordinates": [
+    [
+      [
+        79,
+        90
+      ],
+      [
+        75,
+        158
+      ]
+    ],
+    [
+      [
+        225,
+        149
+      ],
+      [
+        49,
+        70
+      ]
+    ],
+    [
+      [
+        156,
+        30
+      ],
+      [
+        152,
+        103
+      ]
+    ],
+    [
+      [
+        58,
+        145
+      ],
+      [
+        69,
+        59
+      ]
+    ],
+    [
+      [
+        184,
+        139
+      ],
+      [
+        164,
+        58
+      ]
+    ],
+    [
+      [
+        87,
+        206
+      ],
+      [
+        28,
+        66
+      ]
+    ]
+  ],
+  "noise_types": [
+    "grid",
+    "wave",
+    "wave"
+  ],
+  "line_ids": [
+    "OO27sxPn",
+    "1LAPVmhj",
+    "cgt5HPjQ",
+    "83BBFW2t",
+    "LPiBFqrC",
+    "adg97Z34"
+  ],
+  "noise_ids": [
+    "z1fHOon2",
+    "soON5aPQ",
+    "uzQ4zGE7"
+  ],
+  "noise_level": 0.20878575754010825,
+  "random_seed": 520291751,
+  "bbox": [
+    41,
+    108,
+    215,
+    148
+  ]
+}

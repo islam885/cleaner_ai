@@ -1,0 +1,45 @@
+{
+  "image_name": "captcha_00097.png",
+  "text": "Ndy38h",
+  "noise_coordinates": [],
+  "line_coordinates": [
+    [
+      [
+        152,
+        169
+      ],
+      [
+        217,
+        184
+      ]
+    ],
+    [
+      [
+        82,
+        215
+      ],
+      [
+        125,
+        127
+      ]
+    ]
+  ],
+  "noise_types": [
+    "wave"
+  ],
+  "line_ids": [
+    "TXymFDR4",
+    "ICqd1plo"
+  ],
+  "noise_ids": [
+    "MIxDWV2g"
+  ],
+  "noise_level": 0.39176862061788276,
+  "random_seed": 1782351867,
+  "bbox": [
+    65,
+    113,
+    191,
+    142
+  ]
+}

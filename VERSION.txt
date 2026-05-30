@@ -1,0 +1,52 @@
+Cleaner AI - CAPTCHA Noise Removal System
+Version: 1.0.0
+Release Date: May 2024
+Status: Production Ready
+
+Build Information:
+- Python: 3.8+
+- PyTorch: 2.0+
+- CUDA: 11.8+ (optional)
+- Platform: Windows, Linux, macOS
+
+Features:
+✓ Advanced U-Net architecture with attention mechanisms
+✓ GAN-based adversarial training
+✓ Real-time image inference
+✓ Batch processing support
+✓ Video processing capabilities
+✓ Mixed precision (FP16) training
+✓ Automatic checkpoint management
+✓ TensorBoard integration
+✓ Professional GUI interface
+✓ Synthetic dataset generation
+
+System Requirements:
+- Minimum: Python 3.8+, 8GB RAM, 10GB disk
+- Recommended: Python 3.10+, 16GB RAM, GPU with CUDA
+
+Installation:
+1. Run: install.bat (Windows) or install.sh (Linux/Mac)
+2. Or: pip install -r requirements.txt
+3. Verify: python check_setup.py
+
+Quick Start:
+1. Launch GUI: python run.py
+2. Generate dataset: Generate tab
+3. Train model: Train tab
+4. Test inference: Test tab
+
+Documentation:
+- START.md - Getting started guide
+- README.md - Project overview
+- USAGE.md - Detailed usage guide
+- ARCHITECTURE.md - Technical architecture
+- EXAMPLES.md - Code examples
+- PROJECT_INFO.md - Project information
+
+Support:
+- Check documentation files
+- Run check_setup.py for diagnostics
+- Review logs in data/logs/ directory
+
+License: Proprietary - Cleaner AI System

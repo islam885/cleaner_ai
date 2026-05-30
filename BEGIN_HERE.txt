@@ -1,0 +1,235 @@
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║              CLEANER AI - BEGIN HERE                           ║
+║                                                                ║
+║         CAPTCHA Noise Removal System v1.0                      ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+
+🚀 QUICK START (3 STEPS)
+═══════════════════════════════════════════════════════════════
+
+Step 1: Install Dependencies
+────────────────────────────
+Run: fix_install.bat
+
+This will install all required packages:
+- PyTorch (deep learning)
+- OpenCV (image processing)
+- PyQt5 (GUI)
+- And more...
+
+Step 2: Verify Installation
+────────────────────────────
+Run: python test_imports.py
+
+This will check if all packages are installed correctly.
+
+Step 3: Launch GUI
+──────────────────
+Run: python run.py
+
+Or: run.bat (Windows)
+
+═══════════════════════════════════════════════════════════════
+
+📚 DOCUMENTATION
+═══════════════════════════════════════════════════════════════
+
+START HERE:
+- START.md              Quick start guide (5 min read)
+- README.md             Project overview
+
+THEN READ:
+- USAGE.md              Detailed usage guide
+- EXAMPLES.md           Code examples
+
+FOR TECHNICAL DETAILS:
+- ARCHITECTURE.md       System architecture
+- PROJECT_INFO.md       Project information
+
+IF YOU HAVE PROBLEMS:
+- TROUBLESHOOTING.md    Common issues & solutions
+- check_setup.py        Run to verify setup
+
+═══════════════════════════════════════════════════════════════
+
+🎯 WHAT YOU CAN DO
+═══════════════════════════════════════════════════════════════
+
+1. GENERATE DATASET
+   - Create synthetic CAPTCHA images
+   - With realistic noise and distortions
+   - Run: python quick_start.py (option 1)
+
+2. TRAIN MODEL
+   - Train neural network on dataset
+   - Monitor loss in real-time
+   - Run: python quick_start.py (option 2)
+
+3. TEST INFERENCE
+   - Clean noisy CAPTCHA images
+   - See before/after comparison
+   - Run: python quick_start.py (option 3)
+
+4. USE GUI
+   - Professional interface with 5 tabs
+   - Real-time monitoring
+   - Easy to use
+   - Run: python run.py
+
+═══════════════════════════════════════════════════════════════
+
+⚙️ SYSTEM REQUIREMENTS
+═══════════════════════════════════════════════════════════════
+
+MINIMUM:
+- Python 3.8+
+- 8GB RAM
+- 10GB disk space
+- Windows/Linux/macOS
+
+RECOMMENDED:
+- Python 3.10+
+- 16GB RAM
+- GPU with CUDA 11.8+
+- 50GB disk space
+
+═══════════════════════════════════════════════════════════════
+
+🔧 INSTALLATION OPTIONS
+═══════════════════════════════════════════════════════════════
+
+OPTION 1: Automated (Recommended)
+Run: fix_install.bat
+
+OPTION 2: Manual
+Run: pip install -r requirements.txt
+
+OPTION 3: Test First
+Run: python test_cli.py
+
+═══════════════════════════════════════════════════════════════
+
+📋 FILE STRUCTURE
+═══════════════════════════════════════════════════════════════
+
+Core Files:
+- model.py              Neural network
+- train.py              Training pipeline
+- infer.py              Inference engine
+- captcha_generator.py  Dataset generation
+- data_loader.py        Data loading
+- utils.py              Utilities
+
+GUI & CLI:
+- cleaner_ai.py         GUI application
+- run.py                GUI launcher
+- quick_start.py        Quick start script
+- demo.py               Demonstrations
+
+Tools:
+- benchmark.py          Performance testing
+- validate.py           Model validation
+- export_model.py       Model export
+- check_setup.py        Setup verification
+
+═══════════════════════════════════════════════════════════════
+
+🎓 LEARNING PATH
+═══════════════════════════════════════════════════════════════
+
+BEGINNER (30 minutes):
+1. Read START.md
+2. Run fix_install.bat
+3. Run python run.py
+4. Generate dataset
+5. Train for 10 epochs
+
+INTERMEDIATE (2 hours):
+1. Read USAGE.md
+2. Run python quick_start.py
+3. Generate larger dataset
+4. Train for 100 epochs
+5. Test inference
+
+ADVANCED (1 day):
+1. Read ARCHITECTURE.md
+2. Study model.py and train.py
+3. Implement custom components
+4. Run benchmarks
+5. Export models
+
+═══════════════════════════════════════════════════════════════
+
+❓ COMMON QUESTIONS
+═══════════════════════════════════════════════════════════════
+
+Q: How do I start?
+A: Run: fix_install.bat, then python run.py
+
+Q: What if installation fails?
+A: See TROUBLESHOOTING.md or run check_setup.py
+
+Q: Can I use CPU only?
+A: Yes, but GPU is much faster
+
+Q: How long does training take?
+A: ~2-3 hours for 100 epochs on GPU
+
+Q: Where are my results?
+A: Check data/models/ for saved models
+   Check data/logs/ for training logs
+
+Q: How do I use the GUI?
+A: Run python run.py and follow the tabs
+
+═══════════════════════════════════════════════════════════════
+
+🚀 NEXT STEPS
+═══════════════════════════════════════════════════════════════
+
+1. Run: fix_install.bat
+2. Run: python test_imports.py
+3. Run: python run.py
+4. Read: START.md
+5. Generate dataset
+6. Train model
+7. Test inference
+
+═══════════════════════════════════════════════════════════════
+
+📞 SUPPORT
+═══════════════════════════════════════════════════════════════
+
+Documentation:
+- START.md              Getting started
+- README.md             Overview
+- USAGE.md              Usage guide
+- EXAMPLES.md           Code examples
+- ARCHITECTURE.md       Technical details
+- TROUBLESHOOTING.md    Common issues
+
+Tools:
+- check_setup.py        Verify installation
+- test_imports.py       Test dependencies
+- test_cli.py           Test functionality
+
+═══════════════════════════════════════════════════════════════
+
+✅ READY TO START?
+═══════════════════════════════════════════════════════════════
+
+1. Open command prompt
+2. Navigate to this directory
+3. Run: fix_install.bat
+4. Run: python run.py
+5. Enjoy!
+
+═══════════════════════════════════════════════════════════════
+
+Version: 1.0.0
+Status: Production Ready ✓
+Last Updated: May 2024
+
+═══════════════════════════════════════════════════════════════

@@ -1,0 +1,52 @@
+{
+  "image_name": "captcha_00122.png",
+  "text": "JaZI9m",
+  "noise_coordinates": [],
+  "line_coordinates": [
+    [
+      [
+        109,
+        45
+      ],
+      [
+        27,
+        218
+      ]
+    ],
+    [
+      [
+        158,
+        78
+      ],
+      [
+        122,
+        163
+      ]
+    ],
+    [
+      [
+        126,
+        141
+      ],
+      [
+        40,
+        233
+      ]
+    ]
+  ],
+  "noise_types": [],
+  "line_ids": [
+    "GECoEyzR",
+    "xItV348S",
+    "K9PsJOAP"
+  ],
+  "noise_ids": [],
+  "noise_level": 0.4364687543140683,
+  "random_seed": 840420312,
+  "bbox": [
+    65,
+    114,
+    190,
+    141
+  ]
+}
